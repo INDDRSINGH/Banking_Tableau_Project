@@ -5,21 +5,23 @@ The dashboard will provide a comprehensive view of key business metrics and data
 
 
 ## Requirements:
-Charts and Visualizations:
+
+### Charts and Visualizations:
   
-  Compare the total value created by different insurers.
+1) Compare the total value created by different insurers.
+
+2) Display trends in premiums collected over time.
+
+3) Showcase the distribution of shareholding patterns among stakeholders.
+
+4) Analyse the relationship between cost ratio and profitability.
+
+5) Visualize profitability for different cities and policy tenure durations.
+
+6) Represent the distribution of assets under management across stakeholders.
   
-  Display trends in premiums collected over time.
-  
-  Showcase the distribution of shareholding patterns among stakeholders.
-  
-  Analyse the relationship between cost ratio and profitability.
-  
-  Visualize profitability for different cities and policy tenure durations.
-  
-  Represent the distribution of assets under management across stakeholders.
-  
-Key Performance Indicators (KPIs):
+### Key Performance Indicators (KPIs):
+
 Display the total premium collected
 Show the average age of stakeholders
 Highlight the total Value Created for insurers or stakeholders where Assets under Management is 'Equity,' 
